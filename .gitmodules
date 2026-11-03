@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/yury-rd/mci-forecast-data.git
+	branch = data

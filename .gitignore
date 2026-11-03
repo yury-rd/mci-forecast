@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+results/
+local_data/
+*.npz
+.DS_Store
+
+# Saved fixtures belong in the private data companion.
+tests/expected_demo.json

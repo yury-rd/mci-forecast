@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript, which is under review for ISBI 2027."
+title: "MCI connectivity forecasting"
+type: software
+authors:
+  - family-names: Maximov
+    given-names: Yury
+  - family-names: Volkov
+    given-names: Aleksandr
+  - family-names: Chattopadhyay
+    given-names: Tamoghna
+  - family-names: Thompson
+    given-names: Paul M.
+  - family-names: Gabitov
+    given-names: Ildar
+repository-code: "https://github.com/yury-rd/mci-forecast"
+url: "https://github.com/yury-rd/mci-forecast"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Windowed Connectivity Variability for Two-Year Clinical Severity Prediction in Mild Cognitive Impairment"
+  authors:
+    - family-names: Maximov
+      given-names: Yury
+    - family-names: Volkov
+      given-names: Aleksandr
+    - family-names: Chattopadhyay
+      given-names: Tamoghna
+    - family-names: Thompson
+      given-names: Paul M.
+    - family-names: Gabitov
+      given-names: Ildar
+  notes: "Under review for the 2027 IEEE International Symposium on Biomedical Imaging (ISBI 2027)."
+  url: "https://github.com/yury-rd/mci-forecast"
